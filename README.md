@@ -3,4 +3,4 @@ ____
 
 This is the code for my photography website!
 
-Thank you [Béa](x) for the help!
+Thank you [Béa](https://github.com/beabaa) for the help!
